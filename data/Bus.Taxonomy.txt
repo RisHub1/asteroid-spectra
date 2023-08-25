@@ -1,0 +1,1468 @@
+              SMASSII Feature-Based Taxonomy
+        (from Bus and Binzel 2001, in preparation)
+
+Please contact sjb@ifa.hawaii.edu before quoting these results
+in a publication and/or watch this space for updated information
+concerning referencing these results.
+
+
+Listed below are 1447 asteroids observed during the second phase of
+the Small Mainbelt Asteroid Spectroscopic Survey.
+
+   Column 1: asteroid number and name (or provisional designation).
+   
+   Column 2: Tholen classification (Tholen 1989, Asteroids II, pp 1139-1150)
+             NOTE: Classes given in () are based on SMASSI observations
+                   (Xu et al. 1995, Icarus 115, 1-35) 
+               
+   Column 3: SMASSII classification, based on the 26 classes
+               defined by Bus 1999 (Ph.D. thesis)
+
+
+1 Ceres         	G	C
+2 Pallas        	B	B
+3 Juno          	S	Sk
+4 Vesta         	V	V
+5 Astraea       	S	S
+6 Hebe          	S	S
+7 Iris          	S	S
+10 Hygiea       	C	C
+11 Parthenope   	S	Sk
+12 Victoria     	S	L
+13 Egeria       	G	Ch
+14 Irene        	S	S
+15 Eunomia      	S	S
+16 Psyche       	M	X
+17 Thetis       	S	Sl
+18 Melpomene    	S	S
+19 Fortuna      	G	Ch
+20 Massalia     	S	S
+21 Lutetia      	M	Xk
+22 Kalliope     	M	X
+23 Thalia       	S	S
+24 Themis       	C	B
+25 Phocaea      	S	S
+26 Proserpina   	S	S
+27 Euterpe      	S	S
+28 Bellona      	S	S
+29 Amphitrite   	S	S
+30 Urania       	S	Sl
+31 Euphrosyne   	C	Cb
+32 Pomona       	S	S
+33 Polyhymnia   	S	Sq
+34 Circe        	C	Ch
+35 Leukothea    	C	C
+37 Fides        	S	S
+38 Leda         	C	Cgh
+39 Laetitia     	S	S
+40 Harmonia     	S	S
+41 Daphne       	C	Ch
+42 Isis         	S	L
+43 Ariadne      	S	Sk
+44 Nysa         	E	Xc
+45 Eugenia      	FC	C
+46 Hestia       	P	Xc
+47 Aglaja       	C	B
+48 Doris        	CG	Ch
+49 Pales        	CG	Ch
+50 Virginia     	X	Ch
+51 Nemausa      	CU	Ch
+52 Europa       	CF	C
+54 Alexandra    	C	C
+55 Pandora      	M	X
+56 Melete       	P	Xk
+57 Mnemosyne    	S	S
+58 Concordia    	C	Ch
+59 Elpis        	CP	B
+60 Echo         	S	S
+61 Danae        	S	S
+62 Erato        	BU	Ch
+63 Ausonia      	S	Sa
+64 Angelina     	E	Xe
+65 Cybele       	P	Xc
+66 Maja         	C	Ch
+67 Asia         	S	S
+69 Hesperia     	M	X
+70 Panopaea     	C	Ch
+71 Niobe        	S	Xe
+74 Galatea      	C	C
+75 Eurydike     	M	Xk
+76 Freia        	P	X
+77 Frigga       	MU	Xe
+78 Diana        	C	Ch
+79 Eurynome     	S	S
+80 Sappho       	S	S
+81 Terpsichore  	C	Cb
+82 Alkmene      	S	Sq
+83 Beatrix      	X	X
+84 Klio         	G	Ch
+85 Io           	FC	B
+87 Sylvia       	P	X
+88 Thisbe       	CF	B
+89 Julia        	S	K
+90 Antiope      	C	C
+91 Aegina       	CP	Ch
+92 Undina       	X	Xc
+93 Minerva      	CU	C
+94 Aurora       	CP	C
+95 Arethusa     	C	Ch
+96 Aegle        	T	T
+98 Ianthe       	CG	Ch
+99 Dike         	C	Xk
+100 Hekate      	S	S
+101 Helena      	S	S
+102 Miriam      	P	C
+103 Hera        	S	S
+104 Klymene     	C	Ch
+105 Artemis     	C	Ch
+106 Dione       	G	Cgh
+107 Camilla     	C	X
+108 Hecuba      	S	Sl
+109 Felicitas   	GC	Ch
+110 Lydia       	M	X
+111 Ate         	C	Ch
+112 Iphigenia   	DCX	Ch
+113 Amalthea    	S	S
+114 Kassandra   	T	Xk
+115 Thyra       	S	S
+116 Sirona      	S	Sk
+117 Lomia       	XC	X
+118 Peitho      	S	S
+119 Althaea     	S	Sl
+120 Lachesis    	C	C
+121 Hermione    	C	Ch
+122 Gerda       	ST	L
+123 Brunhild    	S	S
+124 Alkeste     	S	S
+125 Liberatrix  	M	X
+127 Johanna     	CX	Ch
+128 Nemesis     	C	C
+129 Antigone    	M	X
+130 Elektra     	G	Ch
+131 Vala        	SU (C)	Xc
+132 Aethra      	M	Xe
+133 Cyrene      	SR	S
+134 Sophrosyne  	C	Ch
+135 Hertha      	M	Xk
+136 Austria     	M	Xe
+139 Juewa       	CP	X
+140 Siwa        	P	Xc
+141 Lumen       	CPF	Ch
+142 Polana      	F	B
+143 Adria       	C	Xc
+144 Vibilia     	C	Ch
+145 Adeona      	C	Ch
+146 Lucina      	C	Ch
+147 Protogeneia 	C	C
+148 Gallia      	GU	S
+150 Nuwa        	CX	Cb
+151 Abundantia  	S	Sl
+152 Atala       	D	S
+153 Hilda       	P	X
+154 Bertha      		C
+156 Xanthippe   	C	Ch
+158 Koronis     	S	S
+159 Aemilia     	C	Ch
+160 Una         	CX	C
+161 Athor       	M	Xc
+162 Laurentia   	STU	Ch
+163 Erigone     	C	Ch
+164 Eva         	CX	X
+165 Loreley     	CD	Cb
+166 Rhodope     	GC:	Xe
+167 Urda        	S	Sk
+168 Sibylla     	C	Ch
+169 Zelia       	S	Sl
+170 Maria       	S	S
+171 Ophelia     	C	C
+172 Baucis      	S	L
+173 Ino         	C	Xk
+174 Phaedra     	S	S
+175 Andromache  	C	Cg
+176 Iduna       	G	Ch
+177 Irma        	C:	Ch
+178 Belisana    	S	S
+179 Klytaemnestra	S	Sk
+180 Garumna     	S	Sq
+181 Eucharis    	S	Xk
+182 Elsa        	S	S
+183 Istria      	S	S
+184 Dejopeja    	X	X
+185 Eunike      	C	C
+186 Celuta      	S	K
+187 Lamberta    	C	Ch
+188 Menippe     	S	S
+189 Phthia      	S	Sa
+190 Ismene      	P	X
+191 Kolga       	XC:	Cb
+192 Nausikaa     	S	Sl
+193 Ambrosia    		Sk
+194 Prokne      	C	C
+195 Eurykleia   	C	Ch
+196 Philomela   	S	S
+197 Arete       	S	S
+198 Ampella     	S	S
+199 Byblis      		X
+200 Dynamene    	C	Ch
+201 Penelope    	M	X
+205 Martha      	C	Ch
+206 Hersilia    	C	C
+207 Hedda       	C	Ch
+208 Lacrimosa   	S	Sk
+209 Dido        	C	Xc
+210 Isabella    	CF	Cb
+211 Isolda      	C	Ch
+213 Lilaea      	F	B
+214 Aschera     	E	Xc
+216 Kleopatra   	M	Xe
+221 Eos         	S	K
+226 Weringia    		S
+228 Agathe      	S	S
+230 Athamantis  	S	Sl
+233 Asterope    	T	K
+234 Barbara     	S	Ld
+236 Honoria     	S	L
+237 Coelestina  	S	S
+238 Hypatia     	C	Ch
+240 Vanadis     	C	C
+241 Germania    	CP	B
+242 Kriemhild   		Xc
+243 Ida         	S	S
+244 Sita        		Sa
+245 Vera        	S	S
+246 Asporina    	A	A
+247 Eukrate     	CP	Xc
+250 Bettina     	M	Xk
+253 Mathilde     		Cb
+257 Silesia     	SCTU	Ch
+258 Tyche       	S	S
+259 Aletheia    	CP	X
+261 Prymno      	B	X
+263 Dresda      		S
+264 Libussa     	S	S
+266 Aline       	C	Ch
+267 Tirza       	DU	D
+269 Justitia     		Ld
+272 Antonia     		X
+275 Sapientia   	X	C
+278 Paulina     		S
+279 Thule       	D	X
+281 Lucretia    	SU	S
+282 Clorinde    	BFU::	B
+284 Amalia      	CX	Ch
+286 Iclea       	CX	Ch
+288 Glauke      	S	S
+289 Nenetta     	A	A
+295 Theresia    	S	S
+301 Bavaria     		C
+304 Olga        	C	Xc
+306 Unitas      	S	S
+308 Polyxo      	T	T
+310 Margarita   		S
+312 Pierretta   	S	Sk
+317 Roxane      	E	Xe
+321 Florentina  	S	S
+322 Phaeo       	X	X
+327 Columbia    		Sl
+331 Etheridgea  	CX	C
+332 Siri        		Xk
+335 Roberta     	FP	B
+336 Lacadiera   	D	Xk
+337 Devosa      	X	X
+338 Budrosa     	M	Xk
+339 Dorothea    	S	K
+342 Endymion    	C	Ch
+345 Tercidina   	C	Ch
+346 Hermentaria 	S	S
+348 May         		X
+349 Dembowska   	R	R
+352 Gisela      	S	Sl
+353 Ruperto-Carola		S
+354 Eleonora    	S	Sl
+355 Gabriella   		S
+358 Apollonia   		Ch
+359 Georgia     	CX	X
+360 Carlova     	C	C
+363 Padua       	XC	X
+365 Corduba     	X	C
+366 Vincentina  		Ch
+371 Bohemia     	QSV (S)	S
+372 Palma       	BFC	B
+374 Burgundia   	S	S
+375 Ursula      	C	Xc
+376 Geometria   	S	Sl
+377 Campania    	PD	Ch
+378 Holmia      	S	S
+379 Huenna      	B	C
+381 Myrrha      	C	Cb
+383 Janina      	B	B
+384 Burdigala   	S	S
+386 Siegena     	C	C
+387 Aquitania   	S	L
+388 Charybdis   	C	C
+389 Industria   	S	S
+391 Ingeborg    	S	S
+392 Wilhelmina  		Ch
+393 Lampetia    	C	Xc
+394 Arduina     	S	S
+395 Delia       	C	Ch
+396 Aeolia      		Xe
+397 Vienna      	S	K
+398 Admete      		C
+399 Persephone  		X
+402 Chloe       	S	K
+403 Cyane       	S	S
+404 Arsinoe     	C	Ch
+405 Thia        	C	Ch
+409 Aspasia     	CX	Xc
+410 Chloris     	C	Ch
+412 Elisabetha  		C
+413 Edburga     	M	X
+414 Liriope     	C	Cg
+416 Vaticana    	S	Sl
+417 Suevia      	X	Xk
+423 Diotima     	C	C
+425 Cornelia    		C
+431 Nephele     	B	B
+432 Pythia      	S	S
+433 Eros        	S	S
+434 Hungaria    	E	Xe
+441 Bathilde    	M	Xk
+442 Eichsfeldia 	C	Ch
+443 Photographica	S	Sl
+444 Gyptis      	C	C
+446 Aeternitas  	A	A
+453 Tea         	S	S
+456 Abnoba      	(S)	S
+458 Hercynia    	S	L
+460 Scania      		K
+462 Eriphyla    	S	S
+464 Megaira     	FXU:	C
+470 Kilia       	S	S
+471 Papagena    	S	S
+476 Hedwig      	P	X
+477 Italia      	S	S
+478 Tergeste    	S	L
+479 Caprera     		C
+481 Emita       	C	Ch
+484 Pittsburghia		S
+485 Genua       		S
+490 Veritas     	C	Ch
+491 Carina      		C
+494 Virtus      	C	Ch
+496 Gryphia     	S	S
+503 Evelyn      	XC	Ch
+504 Cora        		X
+507 Laodica     		X
+509 Iolanda     	S	S
+511 Davida      	C	C
+512 Taurinensis 	S	S
+513 Centesima   	S	K
+515 Athalia     	I	Cb
+516 Amherstia   	M	X
+519 Sylvania    	S	S
+521 Brixia      	C	Ch
+523 Ada				X
+527 Euryanthe   		Cb
+531 Zerlina     		B
+532 Herculina   	S	S
+533 Sara        	S	S
+534 Nassovia    	S	Sq
+539 Pamina      		Ch
+541 Deborah     	(C)	B
+543 Charlotte   		Xe
+545 Messalina   	CD	Cb
+547 Praxedis    	XD:	Xk
+551 Ortrud      	XC	C
+553 Kundry      		S
+554 Peraga      	FC	Ch
+555 Norma       		B
+556 Phyllis     	S	S
+559 Nanon       	C	Xk
+560 Delila      		B
+563 Suleika     	S	Sl
+564 Dudu        	CDX:	Xc
+569 Misa        	C	Cg
+570 Kythera     	ST	T
+571 Dulcinea    	S	S
+572 Rebekka     	XDC	C
+578 Happelia     		Xc
+579 Sidonia     	S	K
+581 Tauntonia   		Xk
+584 Semiramis   	S	Sl
+586 Thekla      	C:	Ch
+592 Bathseba    		K
+596 Scheila     	PCD	T
+597 Bandusia    		S
+598 Octavia     	C:	X
+599 Luisa       	S	K
+600 Musa        		S
+601 Nerthus     	X	C
+604 Tekmessa     		Xc
+606 Brangane    	TSD	K
+611 Valeria     	S	L
+614 Pia				C
+622 Esther      	S	S
+625 Xenia       		Sa
+626 Notburga    	CX	Xc
+627 Charis      	XB:	X
+629 Bernardina   		X
+631 Philippina  	S	S
+633 Zelima      	S	S
+634 Ute         		X
+638 Moira       		Ch
+642 Clara       	S	L
+649 Josefa      		Sq
+653 Berenike    	S	K
+654 Zelinda     	C	Ch
+661 Cloelia     	S	K
+668 Dora        		Ch
+670 Ottegebe    		S
+671 Carnegia    		Xk
+673 Edda        	S	S
+674 Rachele     	S	S
+675 Ludmilla    	S	S
+677 Aaltje      		Sl
+678 Fredegundis 		X
+679 Pax         	I	K
+687 Tinette     	X	X
+688 Melanie     		C
+699 Hela        	S	Sq
+702 Alauda      	C	B
+704 Interamnia  	F	B
+705 Erminia     	X	C
+706 Hirundo     		Cgh
+712 Boliviana   	C	X
+713 Luscinia    	C	C
+715 Transvaalia 		X
+716 Berkeley    	S	S
+718 Erida       		X
+720 Bohlinia    	S	Sq
+723 Hammonia    		C
+729 Watsonia    	STGD	L
+731 Sorga       	CD	Xe
+735 Marghanna   	C	Ch
+737 Arequipa    	S	S
+739 Mandeville  	X	X
+741 Botolphia   	X	X
+742 Edisona     	S	K
+743 Eugenisis   		Ch
+747 Winchester  	PC	C
+749 Malzovia    	S	S
+751 Faina       	C	Ch
+753 Tiflis      	S	L
+754 Malabar     	XC	Ch
+757 Portlandia  	XF	Xk
+759 Vinifera    		X
+767 Bondia      		B
+771 Libera      	X	X
+773 Irmintraud  	D	T
+776 Berbericia  	C	Cgh
+779 Nina        		X
+781 Kartvelia   	CPU:	Xc
+782 Montefiore  	S	Sl
+783 Nora        		C
+784 Pickeringia 		C
+785 Zwetana     	M	Cb
+789 Lena        		X
+792 Metcalfia   		X
+793 Arizona     	DU:	S
+795 Fini        		C
+796 Sarita      	XD	X
+797 Montana     	S	S
+804 Hispania    	PC	C
+808 Merxia      	(S)	Sq
+814 Tauris      	C	C
+815 Coppelia    		Xe
+819 Barnardiana 		S
+821 Fanny       	C	Ch
+824 Anastasia   	S	L
+825 Tanina      	SR	S
+826 Henrika     		C
+844 Leontina    		X
+845 Naema       		C
+847 Agnia       	S	S
+853 Nansenia    	XD	Ch
+856 Backlunda   		C
+860 Ursina      	M	X
+862 Franzia     		S
+863 Benkoela    	A	A
+866 Fatme       		X
+868 Lova        	C:	Ch
+870 Manto       		S
+872 Holda       	M	X
+886 Washingtonia		C
+895 Helio       	FCB	B
+897 Lysistrata  	S	Sl
+898 Hildegard   		Sl
+905 Universitas 		S
+907 Rhoda       	C	Xk
+908 Buda        		L
+910 Anneliese   		Ch
+912 Maritima    		C
+913 Otila       		Sa
+919 Ilsebill    		C
+924 Toni        	CX	X
+925 Alphonsina  	S	S
+929 Algunde     		S
+930 Westphalia  		Ch
+934 Thuringia   		Ch
+941 Murray      	CX	X
+945 Barcelona   	S	Sq
+950 Ahrensa     		Sa
+951 Gaspra      	S	S
+961 Gunnie      		X
+965 Angelica    		Xc
+970 Primula     		S
+971 Alsatia     		C
+973 Aralia      		Xk
+980 Anacostia   	SU	L
+984 Gretia      		Sr
+985 Rosina      		S
+994 Otthild     		S
+997 Priska      		Ch
+1007 Pawlowia   		K
+1011 Laodamia   	S	Sr
+1014 Semphyra   		Xe
+1015 Christa    	C	Xc
+1016 Anitra     		S
+1017 Jacqueline  		C
+1020 Arcadia    		S
+1021 Flammario  	F	B
+1022 Olympiada  		X
+1024 Hale       		Ch
+1025 Riema      	E	Xe
+1032 Pafuri     		X
+1034 Mozartia   		S
+1036 Ganymed    		S
+1039 Sonneberga 		X
+1041 Asta       		C
+1045 Michela    		S
+1046 Edwin      		Xe
+1048 Feodosia   	XC	Ch
+1052 Belgica    	S	S
+1055 Tynka      	S	S
+1056 Azalea     		S
+1058 Grubba     	S	S
+1065 Amundsenia 		S
+1069 Planckia   		S
+1071 Brita      	(X)	Xk
+1076 Viola      	F	C
+1086 Nata       		Ch
+1088 Mitaka     	S	S
+1094 Siberia    		Xk
+1098 Hakone     		Xe
+1102 Pepita     	C	S
+1103 Sequoia    	E	Xk
+1104 Syringa    		Xk
+1106 Cydonia    		S
+1107 Lictoria   		Xc
+1110 Jaroslawa  	(S)	S
+1114 Lorraine   		Xc
+1126 Otero      		A
+1128 Astrid     		C
+1131 Porzia     		S
+1134 Kepler     		S
+1135 Colchis    		Xk
+1139 Atami      	S	S
+1140 Crimea     	S	S
+1147 Stavropolis		S
+1148 Rarahu     	S	K
+1152 Pawona     		Sl
+1155 Aenna      		Xe
+1176 Lucidor    		C
+1181 Lilith     		X
+1185 Nikko      	S	S
+1186 Turnera    	S	Sq
+1187 Afra       		X
+1188 Gothlandia 		S
+1189 Terentia   		Ch
+1196 Sheba      		X
+1201 Strenua    		Xc
+1204 Renzia     		S
+1212 Francette  	P	X
+1214 Richilde   		Xk
+1222 Tina       		X
+1228 Scabiosa   		S
+1234 Elyna      		K
+1248 Jugurtha   		S
+1251 Hedera     	E	X
+1252 Celestia   	S	S
+1262 Sniadeckia 		C
+1263 Varsavia   	X	Xc
+1264 Letaba     	(C)	C
+1271 Isergina   		C
+1272 Gefion     		Sl
+1277 Dolores    	C	Cb
+1278 Kenya      		S
+1284 Latvia     	T	L
+1293 Sonja      		Sq
+1294 Antwerpia  		C
+1300 Marcelle   		Cg
+1301 Yvonne     		C
+1304 Arosa      		X
+1316 Kasan      		Sr
+1323 Tugela     		Xc
+1324 Knysna     		Sq
+1327 Namaqua    		X
+1329 Eliane     	S	S
+1331 Solvejg    	BC:	B
+1332 Marconia   		Ld
+1336 Zeelandia  	S	S
+1343 Nicole     		C
+1348 Michel     		Sl
+1350 Rosselia   	S	Sa
+1351 Uzbekistania		Xk
+1352 Wawel      		X
+1360 Tarka      		Ch
+1372 Haremari   		L
+1373 Cincinnati 		Xk
+1374 Isora      		Sq
+1385 Gelria     		S
+1386 Storeria   		Ch
+1403 Idelsonia  		Cgh
+1406 Komppa     		Ld
+1407 Lindelof   		X
+1414 Jerome     		Ch
+1420 Radcliffe  		X
+1423 Jose       		S
+1424 Sundmania  		X
+1427 Ruvuma     		C
+1428 Mombasa    		Xc
+1433 Geramtina  		S
+1458 Mineura    		S
+1471 Tornio     	(D)	T
+1474 Beira      	FX	B
+1480 Aunus      	(S)	S
+1483 Hakoila    		Sq
+1484 Postrema   		B
+1490 Limpopo    		Xc
+1493 Sigrid     	F	Xc
+1494 Savo       		Sa
+1502 Arenda     		Xc
+1508 Kemi       	BCF	C
+1510 Charlois   		C
+1517 Beograd    		X
+1520 Imatra     		C
+1534 Nasi       	(C)	Cgh
+1539 Borrelly   		B
+1541 Estonia    		Xc
+1542 Schalen    		D
+1545 Thernoe    		K
+1548 Palomaa    		Xk
+1549 Mikko      		S
+1550 Tito       		S
+1553 Bauersfelda		S
+1560 Strattonia 		C
+1562 Gondolatsch		S
+1563 Noel       		Sa
+1565 Lemaitre   		Sq
+1567 Alikoski   	PU	C
+1587 Kahrstedt  		Sa
+1592 Mathieu    		X
+1593 Fagnes     		S
+1594 Danjon     		S
+1600 Vyssotsky  		A
+1601 Patry      	S	Sl
+1603 Neva       		Ch
+1604 Tombaugh   	XSCU	Xc
+1613 Smiley     		Cgh
+1618 Dawn       		S
+1620 Geographos 	S	S
+1627 Ivar       	S	S
+1629 Pecker     		S
+1634 Ndola      		S
+1635 Bohrmann   		S
+1638 Ruanda     		X
+1640 Nemo       		S
+1642 Hill       		S
+1653 Yakhontovia	(C)	X
+1655 Comas Sola 	XFU	B
+1659 Punkaharju 		S
+1660 Wood       		S
+1662 Hoffmann   		Sr
+1664 Felix      		S
+1667 Pels       		Sa
+1680 Per Brahe  		S
+1685 Toro       	S	S
+1692 Subbotina  		Cg
+1695 Walbeck    		Cg
+1702 Kalahari   	D	L
+1705 Tapio      		B
+1706 Dieckvoss  		S
+1715 Salli      		X
+1716 Peter      		C
+1724 Vladimir   	FBCU::	B
+1726 Hoffmeister		Cb
+1729 Beryl      		S
+1730 Marceline  		Xe
+1734 Zhongolovich		Ch
+1738 Oosterhoff 		S
+1747 Wright     	AU:	Sl
+1751 Herget     		S
+1766 Slipher    		C
+1768 Appenzella 	F	C
+1777 Gehrels    		Sq
+1783 Albitskij  		Ch
+1785 Wurm       		S
+1795 Woltjer    		Ch
+1796 Riga       	XFCU	Cb
+1797 Schaumasse 		S
+1798 Watts      		S
+1799 Koussevitzky		K
+1807 Slovakia   	(S)	S
+1830 Pogson     	S	S
+1831 Nicholson  		S
+1836 Komarov    		Ch
+1839 Ragazza    		S
+1847 Stobbe     		Xc
+1848 Delvaux    		S
+1856 Ruzena     		S
+1857 Parchomenko		S
+1858 Lobachevskij		L
+1860 Barbarossa 		X
+1862 Apollo     	Q	Q
+1864 Daedalus   	SQ	Sr
+1865 Cerberus   	S	S
+1866 Sisyphus   		S
+1882 Rauma      		K
+1888 Zu Chong-Zhi		S
+1891 Gondola    		X
+1903 Adzhimushkaj		K
+1904 Massevitch 	    	R
+1917 Cuyo       		Sl
+1923 Osiris     		C
+1929 Kollaa     	(V)	V
+1930 Lucifer    		Cgh
+1932 Jansky     		Sl
+1936 Lugano     		Ch
+1948 Kampala    		S
+1951 Lick       		A
+1968 Mehltretter		S
+1970 Sumeria    		Ch
+1977 Shura      		Sq
+1980 Tezcatlipoca	SU	Sl
+1989 Tatry      		C
+1998 Titius     		Xc
+2001 Einstein   	X	Xe
+2019 van Albada 		S
+2022 West       		S
+2029 Binomi     		S
+2035 Stearns    	E	Xe
+2038 Bistro     		Sa
+2040 Chalonge   		Ch
+2042 Sitarski   		Sq
+2045 Peking     		V
+2053 Nuki       		S
+2056 Nancy      		S
+2060 Chiron     	B	Cb
+2062 Aten       	S	Sr
+2063 Bacchus    		Sq
+2064 Thomsen    		S
+2065 Spicer     		Xc
+2073 Janacek    		X
+2078 Nanking    	(S)	Sq
+2085 Henan      		L
+2086 Newell     		Xc
+2087 Kochera    		S
+2088 Sahlia     		S
+2089 Cetacea    	S	Sq
+2099 Opik       	S	Ch
+2100 Ra-Shalom  	C	Xc
+2102 Tantalus   		Q
+2106 Hugo       		C
+2107 Ilmari     	(S)	S
+2118 Flagstaff  		S
+2131 Mayall     	S	S
+2141 Simferopol 		Sl
+2147 Kharadze   		Ch
+2152 Hannibal   		Ch
+2157 Ashbrook   		S
+2161 Grissom    		C
+2167 Erin       		S
+2169 Taiwan     		C
+2185 Guangdong  		S
+2189 Zaragoza   		S
+2194 Arpola     		Xc
+2201 Oljato     		Sq
+2231 Durrell    		C
+2234 Schmadel   		A
+2244 Tesla      		C
+2246 Bowell     	D	D
+2251 Tikhov     		Cb
+2258 Viipuri    		C
+2268 Szmytowna  		S
+2271 Kiso       		T
+2280 Kunikov    		Sa
+2282 Andres Bello		S
+2305 King       		S
+2306 Bauschinger		X
+2308 Schilt     		S
+2316 Jo-Ann     		C
+2317 Galya      		S
+2328 Robeson    		C
+2331 Parvulesco 		C
+2335 James      		Sa
+2340 Hathor     	CSU	Sq
+2346 Lilio      		C
+2349 Kurchenko  		Xc
+2353 Alva       		S
+2354 Lavrov     		L
+2369 Chekhov    		S
+2370 van Altena 		Cb
+2371 Dimitrov   		R
+2373 Immo       		S
+2378 Pannekoek  		Cgh
+2380 Heilongjiang		S
+2382 Nonie      		B
+2386 Nikonov    		S
+2390 Nezarka    		X
+2396 Kochi      		Sa
+2401 Aehlita    		S
+2402 Satpaev    		Sl
+2409 Chapman    		S
+2410 Morrison   		Sl
+2423 Ibarruri   		A
+2427 Kobzar     		Sq
+2428 Kamenyar   		Ch
+2430 Bruce Helin	S	Sl
+2438 Oleshko    		S
+2444 Lederle    	(X)	C
+2446 Lunacharsky		B
+2448 Sholokhov  		L
+2451 Dollfus    		S
+2455 Somville   		C
+2465 Wilson     		Ch
+2467 Kollontai  		Sl
+2468 Repin      		V
+2478 Tokai      		S
+2482 Perkin     		S
+2493 Elmer      		S
+2501 Lohja      	A	A
+2504 Gaviola    		Sq
+2507 Bobone     		Xe
+2508 Alupka     		V
+2509 Chukotka   		C
+2511 Patterson  		V
+2521 Heidi      		S
+2527 Gregory    		B
+2547 Hubei      		V
+2559 Svoboda    		Xk
+2560 Siegma     		Xc
+2566 Kirghizia  		V
+2567 Elba       		Xc
+2569 Madeline   		D
+2575 Bulgaria   		Sr
+2579 Spartacus  		V
+2582 Harimaya-Bashi		Xc
+2598 Merlin     		Ch
+2604 Marshak    		Sa
+2606 Odessa     		Xk
+2625 Jack London		S
+2629 Rudra      		B
+2631 Zhejiang   		S
+2635 Huggins    		S
+2640 Hallstrom  		V
+2653 Principia  		V
+2659 Millis     		B
+2675 Tolkien    		S
+2681 Ostrovskij 		Xk
+2703 Rodari     		S
+2704 Julian Loewe		V
+2708 Burns      		B
+2709 Sagan      		S
+2715 Mielikki   		A
+2720 Pyotr Pervyj		C
+2724 Orlov      		K
+2730 Barks      		C
+2732 Witt       		A
+2733 Hamina     		Ld
+2736 Ops        		Xc
+2737 Kotka      		S
+2744 Birgitta   	S	S
+2746 Hissao     		Sr
+2748 Patrick Gene		S
+2750 Loviisa    		S
+2754 Efimov     		Sa
+2762 Fowler     		Cb
+2763 Jeans      		V
+2772 Dugan      		B
+2778 Tangshan   		Cb
+2789 Foshan     		S
+2791 Paradise   	SU	Sa
+2795 Lepage     		V
+2801 Huygens    		S
+2807 Karl Marx  		C
+2809 Vernadskij 	BFX	B
+2813 Zappala    		T
+2816 Pien       		B
+2818 Juvenalis  		S
+2827 Vellamo    		S
+2834 Christy Carol		S
+2840 Kallavesi  		Sl
+2850 Mozhaiskij 		Ld
+2851 Harbin     		V
+2852 Declercq   		Ch
+2855 Bastian    		Sl
+2857 NOT        		T
+2861 Lambrecht  		Xc
+2864 Soderblom  		Ch
+2872 Gentelec   		D
+2873 Binzel     		Sq
+2874 Jim Young  		S
+2875 Lagerkvist 		S
+2879 Shimizu    		X
+2881 Meiden     		S
+2892 Filipenko  		C
+2902 Westerlund 		Sq
+2905 Plaskett   		S
+2906 Caltech    		Xc
+2911 Miahelena  		S
+2912 Lapalma    		V
+2917 Sawyer Hogg		S
+2925 Beatty     		Cgh
+2929 Harris     		T
+2930 Euripides  		C
+2934 Aristophanes		Ch
+2949 Kaverznev  		S
+2952 Lilliputia 		Cb
+2953 Vysheslavia		S
+2955 Newburn    		S
+2956 Yeomans    		Sr
+2957 Tatsuo     		K
+2973 Paola      		B
+2977 Chivilikhin		S
+2988 Korhonen   		S
+2996 Bowman     		Xc
+3000 Leonardo   		B
+3007 Reaves     		X
+3020 Naudts     		Sl
+3028 Zhangguoxi 		K
+3037 Alku       		C
+3040 Kozai      		S
+3060 Delcano    		S
+3065 Sarahill   		Ch
+3074 Popov      		B
+3085 Donna      		Sl
+3090 Tjossem    		Cg
+3096 Bezruc     		C
+3103 Eger       		Xe
+3121 Tamines    		S
+3122 Florence   		S
+3137 Horky      		C
+3151 Talbot     		S
+3155 Lee        	(J)	V
+3169 Ostro      	TS	Xe
+3170 Dzhanibekov		S
+3175 Netto      		S
+3179 Beruti     		C
+3181 Ahnert     		S
+3192 A'Hearn    		C
+3197 Weissman   		Cgh
+3198 Wallonia   		S
+3199 Nefertiti  	S	Sq
+3200 Phaethon   	F	B
+3209 Buchwald   		S
+3214 Makarenko  		Xc
+3216 Harrington 		S
+3224 Irkutsk    		X
+3248 Farinella  		D
+3249 Musashino  		S
+3254 Bus        		T
+3255 Tholen     		S
+3256 Daguerre   		X
+3258 Somnium    		S
+3262 Miune      		X
+3265 Fletcher   		V
+3287 Olmstead   		L
+3306 Byron      		S
+3307 Athabasca  		V
+3309 Brorfelde  		S
+3311 Podobed    		T
+3314 Beals      		S
+3317 Paris      		T
+3320 Namba      		S
+3340 Yinhai     		S
+3345 Tarkovskij 		C
+3349 Manas      		L
+3352 McAuliffe  		A
+3363 Bowen      		Sq
+3364 Zdenka     		S
+3365 Recogne    		C
+3367 Alex       		X
+3371 Giacconi   		Sq
+3375 Amy        		C
+3376 Armandhammer		Sq
+3385 Bronnina   		S
+3389 Sinzot     		C
+3394 Banno      		S
+3395 Jitka      		Sr
+3401 Vanphilos  		S
+3406 Omsk       		X
+3416 Dorrit     		Sa
+3417 Tamblyn    		S
+3430 Bradfield  		Sq
+3435 Boury      		C
+3440 Stampfer   		X
+3443 Leetsungdao		T
+3451 Mentor     		X
+3458 Boduognat  		Sl
+3474 Linsley    		Sa
+3491 Fridolin   		Sq
+3493 Stepanov   		S
+3498 Belton     		V
+3507 Vilas      		Ch
+3511 Tsvetaeva  		S
+3526 Jeffbell   		Ch
+3527 McCord     		S
+3533 Toyota     		Xk
+3534 Sax        		S
+3536 Schleicher 		V
+3542 Tanjiazhen 		C
+3545 Gaffey     		Sa
+3546 Atanasoff  		Sa
+3563 Canterbury 		Ch
+3566 Levitan    		B
+3567 Alvema     		Xc
+3575 Anyuta     		X
+3576 Galina     		Sl
+3579 1977 YA    		B
+3581 Alvarez    		B
+3587 Descartes  		C
+3592 Nedbal     		S
+3611 Dabu       		Ch
+3627 Sayers     		B
+3628 Boznemcova 	(O)	O
+3630 Lubomir    		Ch
+3635 1981 WO1   		S
+3636 Pajdusakova		S
+3640 Gostin     		S
+3642 Frieden    		C
+3645 Fabini     		C
+3647 Dermott    		B
+3654 AAS        		Sq
+3658 Feldman    		S
+3669 Vertinskij 		S
+3670 Northcott  		X
+3671 Dionysus   		Cb
+3674 Erbisbuhl  	(S)	Sk
+3678 Mongmanwai 		S
+3684 Berry      		C
+3686 Antoku     		X
+3687 Dzus       		Ch
+3691 Bede       		Xc
+3700 Geowilliams		Sk
+3701 Purkyne    		S
+3704 Gaoshiqi   		Xk
+3710 Bogoslovskij		Cgh
+3712 Kraft      		S
+3713 Pieters    		K
+3730 Hurban     		Xk
+3734 Waland     		Ld
+3737 Beckman    		S
+3744 Horn-d'Arturo		Ch
+3753 Cruithne   		Q
+3759 Piironen   	(C)	X
+3762 Amaravella 		X
+3767 DiMaggio   		Sa
+3775 Ellenbeth  		Ch
+3782 Celle      		V
+3788 1986 QM3   		S
+3792 Preston    	(S)	S
+3796 Lene       		C
+3800 Karayusuf  		S
+3809 Amici      		S
+3813 Fortov     		S
+3819 Robinson   		Sr
+3824 Brendalee  		S
+3827 Zdenekhorsky		C
+3829 Gunma      		Ch
+3831 Pettengill 		S
+3833 Calingasta 		Cb
+3841 Dicicco    		S
+3844 1966 BZ    		L
+3849 Incidentia 		V
+3850 Peltier    		V
+3853 Haas       		S
+3858 Dorchester 		Sa
+3860 Plovdiv    		S
+3861 Lorenz     		S
+3862 Agekian    		S
+3865 1988 AY4   		Xc
+3873 Roddy      		S
+3885 Bogorodskij		Cg
+3886 Shcherbakovia		C
+3900 Knezevic   		V
+3903 Kliment Ohridski		Sq
+3908 Nyx        	V	-
+3910 Liszt      		S
+3920 Aubignan   		Sa
+3949 Mach       		Sq
+3958 Komendantov		Xc
+3971 Voronikhin 		Ch
+3972 Richard    		S
+3976 Lise       		X
+3985 Raybatson  		X
+4001 Ptolemaeus 		S
+4033 Yatsugatake		S
+4036 1987 DW5   		Cg
+4037 Ikeya      		Sq
+4039 Souseki    		S
+4051 Hatanaka   		Sq
+4072 Yayoi      		S
+4082 Swann      		Ch
+4096 Kushiro    		Sl
+4107 Rufino     		C
+4116 Elachi     		Sl
+4124 Herriot    		B
+4135 Svetlanov  		Ch
+4142 Dersu-Uzala		A
+4156 1988 BE    	(C)	Cgh
+4157 Izu        		Ch
+4179 Toutatis   	(S)	Sk
+4182 Mount Locke		Sr
+4183 Cuno       		Sq
+4188 Kitezh     		V
+4194 Sweitzer   		Cb
+4197 1982 TA    		Sq
+4200 Shizukagozen		S
+4205 David Hughes		Xe
+4215 Kamo       	(J)	V
+4222 Nancita    		S
+4256 Kagamigawa 		Xc
+4261 Gekko      		Sq
+4265 Kani       		C
+4272 Entsuji    		S
+4276 Clifford   		Cb
+4280 Simonenko  		S
+4284 Kaho       		Ch
+4287 Trisov     		S
+4292 Aoba       		C
+4297 Eichhorn   		Cb
+4299 WIYN       		S
+4304 Geichenko  		C
+4305 Clapton    		S
+4311 Zguridi    		V
+4327 Ries       		Sk
+4332 Milton     		Xe
+4340 Dence      		S
+4341 Poseiden   		O
+4342 Freud      		Xc
+4343 Tetsuya    		Ch
+4352 Kyoto      		S
+4353 Onizaki    	(X)	Xe
+4369 Seifert    		Xk
+4372 Quincy     		S
+4374 Tadamori   		S
+4382 Stravinsky 		Sa
+4387 Tanaka     		S
+4390 Madreteresa		Cgh
+4396 Gressmann  		B
+4407 Taihaku    		Sa
+4417 Lecar      		S
+4422 Jarre      		S
+4424 Arkhipova  		Xk
+4426 Roerich    		L
+4434 Nikulin    		V
+4435 Holt       		S
+4456 Mawson     		Ld
+4461 Sayama     		X
+4479 1985 CP1   		S
+4491 Otaru      		Sa
+4512 Sinuhe     		Sa
+4516 Pugovkin   		Sa
+4523 MIT        		Ch
+4534 Rimskij-Korsakov		Cb
+4536 1987 DA6   		S
+4547 Massachusetts		X
+4548 Wielen     		Xc
+4558 Janesick   		S
+4570 Runcorn    		Sa
+4584 Akan       		C
+4591 Bryantsev  		Cgh
+4604 1987 SK    		S
+4607 Seilandfarm		L
+4610 Kajov      		Sl
+4611 Vulkaneifel		S
+4619 Polyakhova 		L
+4628 Laplace    		S
+4649 Sumoto     		S
+4650 Mori       		S
+4678 Ninian     		S
+4682 Bykov      		S
+4686 Maisica    		B
+4701 Milani     		Xe
+4702 Berounka   		S
+4706 1988 DR    		S
+4711 Kathy      		S
+4713 Steel      		A
+4718 Araki      		Sl
+4719 Burnaby    		C
+4726 Federer    		L
+4733 ORO        		Sq
+4737 Kiladze    		L
+4744 1988 RF5   		D
+4748 Tokiwagozen		S
+4750 Mukai      		X
+4767 Sutoku     		S
+4774 Hobetsu    		S
+4786 Tatianina  		Xc
+4796 Lewis      		V
+4804 Pasteur    		C
+4817 1984 DC1   		Sl
+4824 Stradonice 		Sr
+4838 Billmclaughlin		Xc
+4839 Daisetsuzan		Xc
+4844 Matsuyama  		S
+4845 Tsubetsu   		X
+4849 Ardenne    		S
+4853 1979 ML    		S
+4884 Bragaria   		S
+4900 Maymelou   		V
+4909 Couteau    		S
+4910 Kawasato   		S
+4917 Yurilvovia 		Ld
+4923 Clarke     		S
+4942 1987 DU6   		X
+4944 Kozlovskij 		Cb
+4945 Ikenozenni 		S
+4947 Ninkasi    		Sq
+4950 House      		Sq
+4951 Iwamoto    		S
+4954 Eric       		S
+4957 Brucemurray		S
+4968 Suzamur    		Sq
+4969 Lawrence   		C
+4977 Rauthgundis		V
+4982 Bartini    		A
+4993 1983 GR    		V
+4995 1984 QR    		S
+4997 Ksana      		B
+5008 Miyazawakenji		S
+5010 Amenemhet  		S
+5013 1964 VT1   		Sl
+5038 1948 KF    		S
+5051 Ralph      		Sr
+5067 Occidental 		L
+5069 Tokeidai   		S
+5079 1975 DB    		B
+5081 1976 WC1   		Ch
+5087 Emel'yanov 		X
+5091 Isakovskij 		C
+5102 Benfranklin		B
+5103 Divis      		X
+5108 Lubeck     		S
+5111 Jacliff    		R
+5131 1990 BG    		S
+5133 Phillipadams		B
+5134 Ebilson    		Sl
+5142 Okutama    		Sq
+5143 Heracles   	(V)	O
+5159 Burbine    		S
+5184 Cavaille-Coll		S
+5195 Kaendler   		Sl
+5196 Bustelli   		S
+5208 Royer      		S
+5214 Oozora     		S
+5222 Ioffe      		B
+5227 1986 PE    		S
+5230 1988 EF    		S
+5234 Sechenov   		B
+5240 Kwasan     		V
+5242 Kenreimonin		Sq
+5243 Clasien    		C
+5253 1985 XB    		S
+5261 Eureka     		Sr
+5275 Zdislava   		Sa
+5294 Onnetoh    		X
+5318 1985 HG1   		Sk
+5329 1989 YP    		Cb
+5330 Senrikyu   		B
+5333 Kanaya     		Ch
+5344 Ryabov     		B
+5348 1988 BB    		Ch
+5349 Paulharris 		C
+5364 1980 RC1   		C
+5379 Abehiroshi 		V
+5392 Parker     		Sl
+5397 1988 VB5   		Sl
+5401 Minamioda  		S
+5407 1992 AX    		Sk
+5416 1978 VE5   		C
+5438 Lorre      		C
+5448 Siebold    		S
+5467 1988 AG    		X
+5482 1990 DX    		Sa
+5485 Kaula      		S
+5492 Thoma      		L
+5510 1988 RF7   		S
+5534 1941 UN    		S
+5552 Studnicka  		S
+5553 Chodas     		Ch
+5563 1991 VZ1   		S
+5565 Ukyounodaibu		S
+5576 Albanese   		Xk
+5585 Parks      		Ch
+5587 1990 SB    		Sq
+5588 1990 SW3   		X
+5591 Koyo       		Cb
+5595 Roth       		S
+5610 Balster    		S
+5622 1990 TL4   		Sq
+5626 1991 FE    		S
+5632 Ingelehmann		Xc
+5641 McCleese   		A
+5646 1990 TR    		-
+5647 1990 TZ    		S
+5649 Donnashirley		S
+5660 1974 MA    		Q
+5678 DuBridge   		C
+5685 Sanenobufukui		S
+5690 1992 EU    		B
+5732 1988 WC    		S
+5751 Zao        		X
+5817 1989 RZ    		S
+5836 1993 MF    		S
+5840 1978 ON    		Ld
+5892 1981 YS1   		S
+5956 d'Alembert 		C
+5965 1990 SV15  		Sa
+6005 1989 BD    		C
+6047 1991 TB1   		S
+6053 1993 BW3   		Sq
+6071 Sakitama   		S
+6077 Messner    		Sq
+6078 Burt       		S
+6086 1987 VU    		Sl
+6129 Demokritos 		Ch
+6146 Adamkrafft 		Sq
+6192 1990 KB1   		S
+6211 Tsubame    		Sr
+6230 1984 SG1   		C
+6233 Kimura     		Ch
+6249 Jennifer   		Xe
+6283 1980 VX1   		Ch
+6354 Vangelis   		Cb
+6364 1981 ET    		S
+6386 1989 NK1   		S
+6410 Fujiwara   		Ch
+6455 1992 HE    		S
+6489 Golevka    		Q
+6500 Kodaira    		B
+6509 1983 CQ3   		Ch
+6569 1993 MO    		Sr
+6582 Flagsymphony		Ch
+6585 O'Keefe    		Sk
+6592 Goya       		Sq
+6611 1993 VW    		V
+6669 Obi        		S
+6704 1988 CJ    		K
+6716 1990 RO1   		C
+6782 1990 SU10  		Cb
+6847 Kunz-Hallstein		Sk
+6906 1990 WC    		C
+6907 1990 WE    		C
+6908 Kunimoto   		S
+7056 Kierkegaard		Sq
+7081 1987 QF7   		K
+7110 1983 XH1   		Ch
+7170 1987 MK    		S
+7211 Xerxes     		S
+7224 Vesnina    		Sq
+7225 Huntress   		S
+7245 1991 RN10  		L
+7304 1994 AE2   		Ld
+7336 Saunders   		Sq
+7341 1991 VK    	(S)	Sq
+7358 1995 YA3   		Sq
+7397 1986 QS    		S
+7402 1987 YH    		Ch
+7404 1988 AA5   		Cb
+7405 1988 FF    		Ch
+7451 Verbitskaya		S
+7480 Norwan     		S
+7482 1994 PC1   		S
+7512 Monicalazzarin		Ch
+7562 Kagiroino-Oka		Ld
+7564 1988 CA    		S
+7604 1995 QY2   		C
+7728 Giblin     		Sq
+7753 1988 XB    		B
+7763 1990 UT5   		L
+7817 1988 RH10  		C
+7822 1991 CS    		S
+7888 1993 UC    		-
+7977 1977 QQ5   		S
+8008 1988 TQ4   		C
+8176 1991 WA    	(S)	Q
+8333 1982 VF    		Sq
+8334 1984 CF    		S
+8450 1977 QL1   		C
+8513 1991 PK11  		D
+8516 1991 TW1   		S
+8566 1996 EN    		-
+9400 1994 TW1   		Sr
+9970 1992 ST1   		Cb
+10165 1995 BL2  		L
+10199 Chariklo  		D
+10473 1981 EL21 		K
+10504 1987 UF5  		Sl
+10563 Izhdubar  		Q
+11311 Peleus    		Sq
+11500 1989 UR   		S
+11785 1973 AW3  		Xc
+11906 1992 AE1  		Sq
+12281 1990 WA5  		X
+12711 1991 BB   		Sr
+13651 1997 BR   		S
+16657 1993 UB   		Sr
+16960 1998 QS52 		Sq
+17480 1991 PE10 		S
+17511 1992 QN   		X
+18514 1996 TE11 		Xc
+19356 1997 GH3  		S
+20255 1998 FX2  		Sq
+      1989 UQ   		B
+      1989 VA   		Sq
+      1991 VH   		Sk
+      1992 BF   		Xc
+      1993 TQ2  		Sa
+      1994 AB1  		Sq
+      1994 AW1  		Sa
+      1994 EF2  		Q
+      1995 BC2  		X
+      1995 BM2  		Sq
+      1995 WQ5  		Ch
+      1995 WL8  		Sq
+      1996 BZ3  		X
+      1996 FG3  		C
+      1996 FQ3  		Sq
+      1996 PW   		Ld
+      1996 UK   		Sq
+      1996 VC   		S
+      1997 AC11 		Xc
+      1997 AQ18 		C
+      1997 BQ   		S
+      1997 CZ5  		S
+      1997 GL3  		V
+      1997 RT   		O
+      1997 RD1  		Sq
+      1997 SE5  		T
+      1997 TT25 		Sq
+      1997 UH9  		Sq
+      1997 US9  		Q
+      1998 FM5  		S
+      1998 KU2  		Cb
+      1998 MQ			S
+      1998 PG   		Sq
+      1998 QR15 		Sq
+      1998 SG2  		Sq
+      1998 UT18 		C
+      1998 VR   		Sk
+      1998 VO33 		V
+      1998 WM   		Sq
+      1998 WS   		Sr
+      1998 WZ6  		V
+      1999 EE5  		S
+      1999 FA   		S
+      1999 FB   		Q
